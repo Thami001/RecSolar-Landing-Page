@@ -4,11 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next buiid",
+    "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "webpack serve": "webpack serve --open",
-    "webpack build": "webpack --mode production"
+    "lint": "next lint"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.0",
