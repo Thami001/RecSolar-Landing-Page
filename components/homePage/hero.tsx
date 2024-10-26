@@ -27,7 +27,7 @@ const Hero = () => {
                 <h1 className="!mb-0">
                     <Balancer>
                         {/* use a span to change the color of the RECsolar */}
-                        Welcome to <span className={"text-white"}>RecSolar</span>, SA&apos; leading renewable energy company.
+                        Welcome to <span className={"text-white"}>RECSolar</span>, SA&apos;s leading renewable energy company.
                     </Balancer>
                 </h1>
                 <h3 className="text-muted-foreground">
